@@ -42,7 +42,6 @@ while True:
         break
     else:
         print("未找到EMS运单号信息。")
-        print('吉大招办搞快点，招生也是你们最慢同志……')
         time.sleep(45)
         i = i + 1
     
